@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Richelle Audriene Valentino ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/richelleav11) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@richelleav11) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rchadvan) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/148J193oeH/ ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/richelleav11) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@richelleav11) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rchadvan) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=richelleav11&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=richelleav11&theme=dark&hide_border=false)<br/>
